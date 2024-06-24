@@ -20,19 +20,19 @@ Smart Planner App is a comprehensive tool designed to help users manage their ti
 
 ### Category Screen
 
-<img src="Frontend/src/assets/Categories.jpg" alt="Categories" width="300" height="600">
+<img src="Frontend/assets/ss2.jpg" alt="Categories" width="300" height="600">
 
 ### Add Task Screen
 
-<img src="Frontend/src/assets/add%20task.jpg" alt="Add Task" width="300" height="600">
+<img src="Frontend/assets/ss5.jpg" alt="Add Task" width="300" height="600">
 
 ### Add Calendar Screen
 
-<img src="Frontend/src/assets/Calendar.jpg" alt="Calendar" width="300" height="600">
+<img src="Frontend/assets/ss1.jpg" alt="Calendar" width="300" height="600">
 
 ### Analytics Screen
 
-<img src="Frontend/src/assets/Analytics.jpg" alt="Analytics" width="300" height="600">
+<img src="Frontend\assets\ss3.jpg" alt="Analytics" width="300" height="600">
 
 ## Technologies Used
 
