@@ -16,7 +16,7 @@ Smart Planner App is a comprehensive tool designed to help users manage their ti
 
 ### Home Screen
 
-<img src="Frontend/src/assets/ss4.jpg" alt="Home Screen" width="300" height="600">
+<img src="Frontend\assets\ss4.jpg" alt="Home Screen" width="300" height="600">
 
 ### Category Screen
 
