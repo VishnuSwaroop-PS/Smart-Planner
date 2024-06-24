@@ -16,7 +16,7 @@ Smart Planner App is a comprehensive tool designed to help users manage their ti
 
 ### Home Screen
 
-<img src="Frontend/src/assets/Home-Page.jpg" alt="Home Screen" width="300" height="600">
+<img src="Frontend/src/assets/ss4.jpg" alt="Home Screen" width="300" height="600">
 
 ### Category Screen
 
@@ -54,6 +54,7 @@ Smart Planner App is a comprehensive tool designed to help users manage their ti
 
    bash
    git clone https://github.com/VishnuSwaroop-PS/Smart-Planner.git
+
    cd Smart-Planner
    
 
